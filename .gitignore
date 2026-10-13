@@ -1,8 +1,4 @@
-pobrane_komentarze/
-pobrane_utwory/
 venv/
-lista_utworow.txt
-lista_audycji.txt
-komentarze.txt
-sygnaly.txt
-utwory.txt
+__pycache__/
+audycje/
+sygnaly/
